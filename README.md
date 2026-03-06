@@ -9,10 +9,10 @@
 	<hr/>
 	<br>
 	<a href="https://github.com/silentrootx/DC-Cloner/stargazers">
-		<img src="https://img.shields.io/github/stars/silentrootx/ClonStoker?label=%E2%AD%90%20STARS&logoColor=white&labelColor=1C2325&color=fab387&style=for-the-badge">
+		<img src="https://img.shields.io/github/stars/silentrootx/DC-Cloner?label=%E2%AD%90%20STARS&logoColor=white&labelColor=1C2325&color=fab387&style=for-the-badge">
 	</a>
 	<a href="https://github.com/silentrootx/DC-Cloner/issues">
-		<img src="https://img.shields.io/github/issues/silentrootx/ClonStoker?label=%F0%9F%90%9B%20ISSUES&logoColor=white&labelColor=1C2325&color=ffb29b&style=for-the-badge">
+		<img src="https://img.shields.io/github/issues/silentrootx/DC-Cloner?label=%F0%9F%90%9B%20ISSUES&logoColor=white&labelColor=1C2325&color=ffb29b&style=for-the-badge">
 	</a>
 	<a href="./LICENSE">
 		<img src="https://img.shields.io/badge/📜_License-Own-FCA2AA?labelColor=1C2325&style=for-the-badge">
@@ -273,31 +273,13 @@ This project is licensed under a **Custom License** — see the [LICENSE](LICENS
 
 If you encounter any issues, have feature requests, or just want to chat about the project, feel free to join our community!
 
-<div align="left">
+<div align="center">
   <a href="https://discord.gg/2HuaTEk9J3">
     <img src="https://img.shields.io/badge/DISCORD-blue?color=5865F2&labelColor=5865F2&logo=discord&logoColor=white&style=for-the-badge">
   </a>
 </div>
 <br>
 
-
-## 💰 Support the Project
-
-If you find this tool useful and want to support its development, donations are greatly appreciated!
-
-![Bitcoin](https://img.shields.io/badge/Bitcoin-f7931a?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=1C2325)
-
-**Bitcoin Address:**
-```text
-bc1q2gju5zc9jnn0zhfhdhza4vxm5zft26eew55jju
-```
-
-![Litecoin](https://img.shields.io/badge/Litecoin-345d9d?style=for-the-badge&logo=litecoin&logoColor=white&labelColor=1C2325)
-
-**Litecoin Address:**
-```text
-LfmZJoJt6R2dM3TqWu27PzQfRn9T9ozPfD
-```
 
 <br>
 <div align="center">
