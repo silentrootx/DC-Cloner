@@ -1,6 +1,5 @@
 <a name="top"></a>
 <div align="center">
-	<img src="https://ik.imagekit.io/3xnpqon35/clnstkr_banner.png" alt="ClonStoker Banner" width="800">
 	<br>
 	<br>
 	<p><b>🛡️ Discord Server Backup, Restoration & Replication Tool</b></p>
@@ -13,9 +12,6 @@
 	</a>
 	<a href="https://github.com/silentrootx/DC-Cloner/issues">
 		<img src="https://img.shields.io/github/issues/silentrootx/DC-Cloner?label=%F0%9F%90%9B%20ISSUES&logoColor=white&labelColor=1C2325&color=ffb29b&style=for-the-badge">
-	</a>
-	<a href="./LICENSE">
-		<img src="https://img.shields.io/badge/📜_License-Own-FCA2AA?labelColor=1C2325&style=for-the-badge">
 	</a>
 	<a href="https://www.python.org/downloads/">
 		<img src="https://img.shields.io/badge/🐍_Python-3.10+-C9CBFF?labelColor=1C2325&style=for-the-badge">
@@ -35,10 +31,6 @@
 **ClonStoker** is a powerful Discord bot that lets you create **full backups** of your servers and **restore** them anywhere — including roles, channels, categories, emojis, server settings, and even **complete message history** with author names and attachments.
 
 It also includes a **Server Replicator** module that can clone a remote server you're a member of into a portable backup file, all from within Discord itself.
-
-> [!WARNING]
-> **Use at your own risk.** This tool is provided for **educational & research purposes only.**
-> Users are solely responsible for ensuring compliance with Discord's Terms of Service.
 
 <br>
 
